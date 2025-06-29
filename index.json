@@ -1,1 +1,27 @@
+[
+  {
+    "id": "trex",
+    "title": "T-Rex Dinosaur",
+    "description": "Ein realistisches 3D-Modell eines Tyrannosaurus Rex.",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/trex_icon.png",
+    "previewImages": [
+      "https://raw.githubusercontent.com/username/repo/main/previews/trex_1.png",
+      "https://raw.githubusercontent.com/username/repo/main/previews/trex_2.png",
+      "https://raw.githubusercontent.com/username/repo/main/previews/trex_3.png"
+    ],
+    "modelURL": "https://raw.githubusercontent.com/username/repo/main/models/trex.usdz"
+  },
+  {
+    "id": "sportwagen",
+    "title": "Sportwagen",
+    "description": "Ein sportlicher roter Wagen im 3D-Format.",
+    "icon": "https://raw.githubusercontent.com/username/repo/main/icons/car_icon.png",
+    "previewImages": [
+      "https://raw.githubusercontent.com/username/repo/main/previews/car_1.png",
+      "https://raw.githubusercontent.com/username/repo/main/previews/car_2.png",
+      "https://raw.githubusercontent.com/username/repo/main/previews/car_3.png"
+    ],
+    "modelURL": "https://raw.githubusercontent.com/username/repo/main/models/car.usdz"
+  }
+]
 
